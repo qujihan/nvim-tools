@@ -1,7 +1,0 @@
-require("tools.autopairs").setup()
-require("tools.bufferdel").setup()
-require("tools.comment").setup()
-require("tools.floaterm").setup()
-require("tools.identline").setup()
-require("tools.savework").setup()
-require("tools.surround").setup()
